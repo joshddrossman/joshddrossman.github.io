@@ -44,6 +44,7 @@ Industry Experience
 Publications and Working Papers
 ======
   <ul>{% for post in site.publications reversed %}
+    {% if post.category == 'theses' %}{% continue %}{% endif %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 

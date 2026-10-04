@@ -21,7 +21,7 @@ repository               : "joshddrossman/joshddrossman.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Joshua Drossman"
   pronouns         : # example: "she/her"  
   bio              : "PhD candidate at MIT's Operations Research Center"
@@ -86,6 +86,10 @@ publication_category:
     title: 'Under Review'
   working_papers:
     title: 'Working Papers'
+  reports:
+    title: 'Reports'
+  theses:
+    title: 'Theses'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
