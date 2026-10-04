@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Joshua Drossman"
 title_separator          : "-"
 name                     : &name "Joshua Drossman"
-description              : &description "personal description"
+description              : &description "Personal website of Joshua Drossman, PhD candidate at MIT's Operations Research Center"
 url                      : https://joshddrossman.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "joshddrossman/joshddrossman.github.io"
@@ -22,11 +22,11 @@ repository               : "joshddrossman/joshddrossman.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Josh D"
+  name             : "Joshua Drossman"
   pronouns         : # example: "she/her"  
-  bio              : "Graduate student at MIT's Operations Research Center"
+  bio              : "PhD candidate at MIT's Operations Research Center"
   location         : "Cambridge, MA"
-  employer         : "Massachussetts Institute of Technology"
+  employer         : "Massachusetts Institute of Technology"
   uri              : # URL
   email            : "jdross@mit.edu" 
 
@@ -34,9 +34,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/0009-0006-9946-0745
-  
-  "
+  orcid            : "https://orcid.org/0009-0006-9946-0745"
   semantic         : # URL
   pubmed           : # URL
   researchgate     : # URL
@@ -46,12 +44,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "joshddrossman"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -60,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "joshua-drossman"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -84,6 +82,10 @@ publication_category:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
+  under_review:
+    title: 'Under Review'
+  working_papers:
+    title: 'Working Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
